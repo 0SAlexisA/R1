@@ -1,0 +1,14 @@
+Update nuevo repositorio...
+
+
+less				Muestra la salida estándar de forma paginada
+less fichero			Muestra el contenido de un archivo de forma paginada
+more				Muestra la salida estándar de forma paginada
+more fichero			Muestra el contenido de un archivo de forma paginada
+zcat fichero			Muestra el contenido de un archivo comprimido (.gz)
+zmore fichero			Muestra el contenido de un archivo comprimido (.gz)
+zless fichero			Muestra el contenido de un archivo comprimido (.gz)
+echo cadena			echo nos muestra en pantalla el texto que le diga
+grep 'cadena' archivo		Muestra las líneas del archivo que contienen la cadena
+file archivo			Muestra el tipo de un archivo determinado
+head archivo			Muestra las primeras líneas de un archivo, 10 por defecto 
